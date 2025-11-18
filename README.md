@@ -6,7 +6,6 @@ https://krishrawal734.github.io/Student-Progress-Report-Card-Generator/
 [Live Demo](https://student-form-generater.netlify.app/)  
 
 A simple and intuitive web application built with **HTML**, **CSS**, and **JavaScript** that allows users (teachers, administrators, or students) to dynamically generate and submit student registration or information forms. The app is deployed on Netlify and uses its form-handling capabilities to collect submissions.
-
 ---
 
 ## 🧰 Features
